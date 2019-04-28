@@ -9,3 +9,4 @@
 - <https://twitter.com/c0r3dumpCTF>
 - <https://ctftime.org/team/65521>
 - <https://crysys.hu>
+- <https://twitter.com/CrySySLab>
