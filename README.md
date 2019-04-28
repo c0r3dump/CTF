@@ -1,6 +1,6 @@
 # CTF
 
-CTF write-ups from c0r3dump, the CTF team of [@CrySySLab](https://crysys.hu).
+CTF write-ups from [c0r3dump](https://twitter.com/c0r3dumpCTF), the CTF team of [CrySySLab](https://crysys.hu).
 
 - [2019](2019)
     + [WPICTF](2019/WPICTF)
