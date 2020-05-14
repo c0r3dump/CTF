@@ -1,14 +1,14 @@
 # SpamAndFlags
 
 + [SpamAndFlags](SpamAndFlags)
-    * [Environmental Issues](SpamAndFlags/environmental-issues)
-    * [Git the Flag](SpamAndFlags/git-the-flag)
-    * [Hashing@Home](SpamAndFlags/hashing@home)
-    * [OTS](SpamAndFlags/ots)
-    * [Pwnzi](SpamAndFlags/pwnzi)
-    * [Shor](SpamAndFlags/shor)
-    * [TAS](SpamAndFlags/tas)
-    * [The 3D Printer Task](SpamAndFlags/the-3d-printer-task)
+    * [Environmental Issues](Environmental%20Issues)
+    * [Git the Flag](Git%20the%20Flag)
+    * [Hashing@Home](Hashing@Home)
+    * [OTS](OTS)
+    * [Pwnzi](Pwnzi)
+    * [Shor](Shor)
+    * [TAS](TAS)
+    * [The 3D Printer Task](The%203D%20Printer%20Task)
 
 The team finished on the `13th` place with `2498` points.
 

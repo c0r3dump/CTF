@@ -3,14 +3,14 @@
 ## SpamAndFlags
 
 + [SpamAndFlags](SpamAndFlags)
-    * [Environmental Issues](SpamAndFlags/environmental-issues)
-    * [Git the Flag](SpamAndFlags/git-the-flag)
-    * [Hashing@Home](SpamAndFlags/hashing@home)
-    * [OTS](SpamAndFlags/ots)
-    * [Pwnzi](SpamAndFlags/pwnzi)
-    * [Shor](SpamAndFlags/shor)
-    * [TAS](SpamAndFlags/tas)
-    * [The 3D Printer Task](SpamAndFlags/the-3d-printer-task)
+    * [Environmental Issues](SpamAndFlags/Environmental%20Issues)
+    * [Git the Flag](SpamAndFlags/Git%20the%20Flag)
+    * [Hashing@Home](SpamAndFlags/Hashing@Home)
+    * [OTS](SpamAndFlags/OTS)
+    * [Pwnzi](SpamAndFlags/Pwnzi)
+    * [Shor](SpamAndFlags/Shor)
+    * [TAS](SpamAndFlags/TAS)
+    * [The 3D Printer Task](SpamAndFlags/The%203D%20Printer%20Task)
 
 ## Links
 - <https://twitter.com/c0r3dumpCTF>
