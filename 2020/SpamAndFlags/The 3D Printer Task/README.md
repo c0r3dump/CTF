@@ -16,7 +16,7 @@ First, I've converted the video file to a .wav sound file and loaded up Audacity
 
 ![Audacity](Audacity.png "Audacity")
 
-Changed the view to the spectogram view and started to examine the characteristics.
+Changed the view to the spectrogram view and started to examine the characteristics.
 
 The character separators can easily be identified by the double "local earthquakes".
 
@@ -36,7 +36,7 @@ With all this information I finally started to solve the letters one by one.
 
 The methodology in short is that every letter starts with a horizontal line at the bottom, and that the sounds that represent the horizontal and vertical lines alternate, the odds being the horizontal and the even being the vertical ones. The length of the sound is also important, because it is an estimate on the length of the line. The last trick was to find symmetry between the sounds to help better identify the letters.
 
-The first three letters, which can be seen in the video helped me get the hang of it and then after a lot of trial and error I could narrow it down to only a few possibilities. After a bit of googling one of the possibilities stand out, which was SAF{AIRGAPPED?} the `?` being the only unidentified letter, and from there it was just a matter of time till I've realised it's in fact not a letter, but a number.
+The first three letters, which can be seen in the video helped me get the hang of it and then after a lot of trial and error I could narrow it down to only a few possibilities. After a bit of googling one of the possibilities stand out, which was `SAF{AIRGAPPED?}` the `?` being the only unidentified letter, and from there it was just a matter of time till I've realized it's in fact not a letter, but a number.
 
 ![Drawing1](Drawing1.jpg "Drawing1")
 
