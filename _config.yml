@@ -1,3 +1,13 @@
+title: c0r3dump CTF writeups
+email: c0r3dump@crysys.hu
+description: >-
+  CTF writups from c0r3dump.
+baseurl: "/CTF"
+url: "c0r3dump.github.io"
+twitter_username: c0r3dumpCTF
+github_username:  c0r3dump
+
+# Build settings
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-relative-links
