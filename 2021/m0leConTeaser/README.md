@@ -1,14 +1,12 @@
-# CTFs in 2021
+# m0leCon 2021 CTF Teaser
 
-## m0leCon 2021 CTF Teaser
-
-### Results
+## Results
 
 We achieved **2nd** place at [m0leCon Teaser CTF](https://ctf.m0lecon.it/scoreboard)!
 
-![m0leCon Teaser results](m0leConTeaser/results.png "m0leCon Teaser results")
+![m0leCon Teaser results](results.png "m0leCon Teaser results")
 
-### Challenges
+## Challenges
 
 * [babysign](m0leConTeaser/babysign)
 * [Obscurity-fixed](m0leConTeaser/Obscurity-fixed)
