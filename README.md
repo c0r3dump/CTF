@@ -8,7 +8,7 @@ CTF write-ups from [c0r3dump](https://twitter.com/c0r3dumpCTF), the CTF team of 
         * [Obscurity-fixed](2021/m0leConTeaser/Obscurity-fixed)
         * [Proof-of-Work](2021/m0leConTeaser/Proof-of-Work)
         * [Key-Lottery](2021/m0leConTeaser/Key-Lottery)
-        * [Left or right?](2021/m0leConTeaser/Left%20or%20right?)
+        * [Left or right](2021/m0leConTeaser/Left%20or%20right)
         * [Little-Alchemy](2021/m0leConTeaser/Little-Alchemy)
         * [Another Login](2021/m0leConTeaser/Another%20Login)
         * [Puncher](2021/m0leConTeaser/Puncher)

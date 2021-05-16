@@ -14,7 +14,7 @@ We achieved **2nd** place at [m0leCon Teaser CTF](https://ctf.m0lecon.it/scorebo
 * [Obscurity-fixed](m0leConTeaser/Obscurity-fixed)
 * [Proof-of-Work](m0leConTeaser/Proof-of-Work)
 * [Key-Lottery](m0leConTeaser/Key-Lottery)
-* [Left or right?](m0leConTeaser/Left%20or%20right?)
+* [Left or right](m0leConTeaser/Left%20or%20right)
 * [Little-Alchemy](m0leConTeaser/Little-Alchemy)
 * [Another Login](m0leConTeaser/Another%20Login)
 * [Puncher](m0leConTeaser/Puncher)
