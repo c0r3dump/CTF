@@ -19,4 +19,4 @@ It's just a warmup, don't take it too seriously.
 
 Get `N`,`e` using `4)` then using `2)` send a character 64 times to make sure the `sha256` used to `xor` is just `sha256(32 times the character)`.
 
-Flag: ``
+The flag is `ptm{n07_3v3n_4_ch4ll3n63}`.
