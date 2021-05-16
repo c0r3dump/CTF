@@ -162,4 +162,22 @@ if __name__ == '__main__':
     exploit(p)
 ```
 
+If we run the script, we get the flag:
+
+```bash
+python solve.py 
+[+] Opening connection to challs.m0lecon.it on port 5886: Done
+Solving PoW...
+Solved!
+b"Hello hacker! This challenge will test your programming skills.\nI will give you some strings made up only by L and R. You start at a point O, L means moving to the left by 1 unit, R means moving to the right by 1 unit.\nYour objective is to concatenate ALL these strings such that the leftmost point that you reach during your path is as near as possible to O.\nLet's call this point P. What is the distance between O and P?\n\nThe first line of the input contains a number N.\nThe following N lines contain a string made up only of the characters L and R.\nYour answer should be a non-negative integer.\nIn every testcase 0<N<=150 and the sum of the lengths of the given strings is at most 100000.\nYou must answer to 200 testcases to get the flag! Time limit is one second for each test.\n"
+b'Yay\n'
+...
+b'Yay\n'
+b'ptm{45_r16h7_45_p0551bl3}'
+```
+
 The flag is `ptm{45_r16h7_45_p0551bl3}`.
+
+### Files
+
+- [solve.py](solve.py)
