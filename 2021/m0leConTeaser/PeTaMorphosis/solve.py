@@ -7,7 +7,7 @@ PERMUTATION = struct.pack ("39B", *[
 
 INVERSE_PERMUTATION = [0]*0x27
 
-SHIFT_MSB = [0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0, 1]
+SHIFT_MSB = [0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0, 1]
 
 for (i, p) in enumerate(PERMUTATION):
     INVERSE_PERMUTATION[p] = i
