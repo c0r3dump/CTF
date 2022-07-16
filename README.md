@@ -2,6 +2,9 @@
 
 CTF write-ups from [c0r3dump](https://twitter.com/c0r3dumpCTF), the CTF team of [CrySySLab](https://crysys.hu).
 
+- [2022](2022)
+    + [FaustCTF](2022/FaustCTF)
+        * [Digital Seconds Ago](2022/FaustCTF/Digital-Seconds-Ago)
 - [2021](2021)
     + [m0leCon Teaser](2021/m0leConTeaser)
         * [babysign](2021/m0leConTeaser/babysign)
