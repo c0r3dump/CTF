@@ -6,7 +6,7 @@ We achieved **31th** place at FaustCTF 2022!
 
 ## Challenges
 
-* [Digital Seconds Ago](FaustCTF/Digital-Seconds-Ago)
+* [Digital Seconds Ago](Digital-Seconds-Ago)
 
 ## Links
 
